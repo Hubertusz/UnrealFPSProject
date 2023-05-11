@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Hugga\\Documents\\GitHub\\UnrealFPSProject\\FPSProject\\Source\\FPSProject\\FPSProject.Build.cs",
+		"C:\\Users\\Hugga\\Documents\\GitHub\\UnrealFPSProject\\FPSProject\\Source\\FPSProject.Target.cs",
+		"C:\\Users\\Hugga\\Documents\\GitHub\\UnrealFPSProject\\FPSProject\\Source\\FPSProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
